@@ -1,6 +1,4 @@
-package com.ywf.ywf.entity;
-
-import com.ywf.ywf.entity.worker.OrganizationType;
+package com.ywf.ywf.entity.company;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
